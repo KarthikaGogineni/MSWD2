@@ -1,0 +1,10 @@
+POST http://localhost:3003/api/blogs
+Content-Type: application/json
+
+{
+    "title":"FullStackOpen-2021",
+    "author":"University of Helsinki",
+    "url":"https://fullstackopen.com/",
+    "likes":32
+}
+

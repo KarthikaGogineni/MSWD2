@@ -1,0 +1,39 @@
+body{
+	background-color: pink;
+}
+.formm{
+	border:1px solid gray;
+	border-radius: 15%;
+	padding: 50px 25px;
+	position: absolute;
+	left: 35%;
+	top: 25%;
+	background-color: white;
+}
+input[type=text]{
+	float: right;
+}
+input[type=email]{
+	float: right;
+
+}
+textarea{
+	float: right;
+	height: 40px;
+	width: 164px;
+}
+button{
+height: 30px;
+width:60px;
+position: absolute;
+left: 42%;
+background-color: black;
+color: pink;
+}
+button:hover{
+	background-color: green;
+	color: black;
+}
+h1{
+	color: pink;
+}
