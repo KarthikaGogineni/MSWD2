@@ -1,1 +1,11 @@
+POST http://localhost:3003/api/blogs
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImRpdnlhIiwiaWQiOiI2MGNhMzI4OTY0OTZlNDBiNDQ5NmQyMjkiLCJpYXQiOjE2MjM4NjYwMDEsImV4cCI6MTYyMzg2OTYwMX0.8MbPZwzO-bywI0mgPHMGZKeLJKegGFfXw8XQ_cKaa14
+
+{
+   "title": "FullStackOpen-21",
+    "author": "University-21",
+    "url": "https://full21.com/",
+    "likes": 5
+}
 
